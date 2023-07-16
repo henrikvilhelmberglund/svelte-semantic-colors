@@ -53,4 +53,9 @@
 	:global(h6) {
 		background-color: #c1134e !important;
 	}
+	:global(*) {
+		color: black !important;
+		border-color: transparent !important;
+		outline-color: transparent !important;
+	}
 </style>
